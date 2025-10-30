@@ -16,8 +16,4 @@ One-line: Private media library with signed uploads, row-scoped access, and shor
 ## Run tests
 `pnpm --filter api test`
 
-## Acceptance checks
-(Describe the 8 acceptance checks and how to reproduce locally.)
 
-## Threat model & mitigations
-(See THREATS.md section below)
